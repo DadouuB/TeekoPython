@@ -1,5 +1,4 @@
-import sys
-sys.path.append('C:/Users/13dav/OneDrive/Documents/Python_Scripts/tipe')
+
 import numpy as np
 import random as rand
 import copy
