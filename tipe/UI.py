@@ -1,5 +1,4 @@
-import sys
-sys.path.append('C:/Users/13dav/OneDrive/Documents/Python_Scripts/tipe')
+
 import tkinter as tk
 from tkinter import Button, messagebox
 from ai import Ai
